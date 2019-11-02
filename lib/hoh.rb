@@ -62,5 +62,5 @@ def naming_system
       }
     }
   }  
-return naming_system
+return biological
 end
